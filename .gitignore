@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ruff
+.ruff_cache
+# Manim directory
+videos
+
 # C extensions
 *.so
 
